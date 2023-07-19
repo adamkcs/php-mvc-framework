@@ -1,0 +1,16 @@
+{
+    "name": "adamkocsis/php-mvc-framework",
+    "description": "A basic PHP MVC framework as a portfolio project.",
+    "authors": [
+        {
+            "name": "cxrqt1",
+            "email": "42243421+cxrqt1@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
